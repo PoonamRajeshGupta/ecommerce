@@ -1,0 +1,276 @@
+#navitem1 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#navitem2 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#navitem3 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#navitem4 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#navitem5 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.nav-logo {
+    width: 100px;
+}
+
+.grocery-main-page {
+    background-color: #f8f6f3;
+}
+
+.grocery-discription {
+    color: #111111;
+    font-weight: 500;
+    font-size: 17px;
+    font-family: Serif;
+}
+
+.grocery-heading {
+    color: #111111;
+    font-size: 37px;
+    font-family: Serif;
+    font-weight: bold;
+}
+
+.grocery-button {
+    background-color: #6a9739;
+    height: 50px;
+    width: 155px;
+    border-width: 0;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 17px;
+    font-family: Sans-Serif;
+}
+
+.grocery-button:hover {
+    background-color: #8bc34a;
+}
+
+.grocery-detail {
+    background-color: #111111;
+
+}
+
+.detail-item-container {
+    background-color: #333333;
+    border-radius: 4px;
+}
+
+.detail-icon {
+    color: #8bc34a;
+    font-size: 30px;
+}
+
+.detail-heading {
+    color: #ffffff;
+    font-size: 20px;
+    font-family: Serif;
+}
+
+.detail-para {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Sans-Serif;
+}
+
+.grocery-product {
+    background-color: #ffffff;
+
+}
+
+.product-heading {
+    color: #111111;
+    font-size: 37px;
+    font-family: Serif;
+    font-weight: bold;
+}
+
+.product-item-para {
+    color: #333333;
+    font-family: Sans-Serif;
+    font-size: 14px;
+}
+
+.product-item-heading {
+    color: #333333;
+    font-family: Serif;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.product-price-para {
+    color: #333333;
+    font-family: Sans-Serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.Fresh-food-container {
+    background-color: #f8f6f3;
+
+}
+
+.fresh-leaf {
+    width: 100px;
+}
+
+.fresh-item-container {
+    background-color: #ffffff;
+    height: 250px;
+}
+
+.fresh-img {
+    width: 180px;
+    height: 130px;
+}
+
+.btn {
+    position: relative;
+    bottom: 100px;
+}
+
+.fresh-heading {
+    color: #333333;
+    font-family: Serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.Trending-product {
+    background-color: #ffffff;
+
+}
+
+.discount-section {
+    background-color: #111111;
+
+}
+
+.discount-heading {
+    color: #ffffff;
+    font-family: serif;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.discount-container {
+    background-color: #f8f6f3;
+
+}
+
+.discount-bottom-heading {
+    text-align: center;
+    color: #111111;
+    font-family: serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.customer-review-container {
+    background-color: #f8f6f3;
+
+
+}
+
+.customer-item {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.customer-item1 {
+    background-image: url("https://res.cloudinary.com/di9qg5ka6/image/upload/v1694152998/sydney-rae-668606-unsplash_uve0wq.jpg");
+    background-size: cover;
+    background-size: no-repeat;
+}
+
+.customer-icon {
+    color: #ffbb1e;
+}
+
+.customer-item-heading {
+    color: #333333;
+    font-size: 16px;
+    font-family: Sans-Serif;
+}
+
+.customer-item-heading1 {
+    color: #ffffff;
+    font-size: 24px;
+    font-family: Serif;
+    font-weight: bold;
+
+}
+
+.icon-heading {
+    color: #333333;
+    font-size: 17px;
+    font-family: Sans-Serif;
+}
+
+.customer-disc {
+    color: #ffffff;
+    font-size: 16px;
+    font-family: Sans-Serif;
+    font-weight: bold;
+}
+
+.logo-heading {
+    color: #333333;
+    font-family: Serif;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.footer-container {
+    background-color: #0d2436;
+
+}
+
+.footer-dis {
+    color: #7c878e;
+    font-family: Sans-Serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.footer-heading {
+    color: #ffffff;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.footer-para {
+    color: #7c878e;
+    font-family: Sans-Serif;
+    font-size: 20px;
+}
+
+.link-footer {
+    color: #567f35;
+    font-family: Sans-Serif;
+    font-size: 20px;
+}
+
+.footer-image {
+    width: 100px;
+}

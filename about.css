@@ -1,0 +1,211 @@
+#navitem1 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#navitem2 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#navitem3 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#navitem4 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+#navitem5 {
+    color: black;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.nav-logo {
+    width: 100px;
+}
+
+.about-container {
+    background-color: #f8f6f3;
+
+}
+
+.about-main-heading {
+    color: #111111;
+    font-family: Serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.about-section {
+    background-color: #ffffff;
+
+}
+
+.about-leaf {
+    width: 130px;
+}
+
+.about-image {
+    width: 100%;
+}
+
+.about-section-heading {
+    color: #111111;
+    font-family: Serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.about-section-para {
+    color: #585858;
+    font-family: Sans-Serif;
+    font-size: 16px;
+}
+
+.number-product {
+    background-color: #001524;
+
+}
+
+.number-heading {
+    color: #ffffff;
+    font-family: serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.number-product-heading {
+    color: #ffffff;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.number-product-para {
+    color: #ffffff;
+    font-size: 23px;
+    font-family: Sans-Serif;
+}
+
+.carousel-container {
+    background-color: #ffffff;
+
+}
+
+.carousel-section {
+    background-color: #f8f6f3;
+
+}
+
+.carousel-image {
+    border-radius: 20px;
+}
+
+.customer-icon {
+    color: #ffbb1e;
+}
+
+.customer-item-heading {
+    color: #333333;
+    font-size: 16px;
+    font-family: Sans-Serif;
+}
+
+.icon-heading {
+    color: #333333;
+    font-size: 17px;
+    font-family: Sans-Serif;
+}
+
+.organic-image {
+    width: 160px;
+}
+
+.organic-heading {
+    color: #111111;
+    font-family: serif;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.organic-heading1 {
+    color: #111111;
+    font-family: serif;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.organic-para {
+    color: #585858;
+    font-family: Sans-serif;
+    font-size: 15px;
+}
+
+.oragnic-icon {
+    color: #8bc34a;
+    font-size: 20px;
+}
+
+.icon-orgainc-heading {
+    color: #585858;
+    font-family: Sans-Serif;
+    font-size: 18px;
+}
+
+.grocery-button {
+    background-color: #6a9739;
+    height: 50px;
+    width: 155px;
+    border-width: 0;
+    border-radius: 5px;
+    color: #ffffff;
+    font-size: 17px;
+    font-family: Sans-Serif;
+}
+
+.grocery-button:hover {
+    background-color: #8bc34a;
+}
+
+
+.footer-container {
+    background-color: #0d2436;
+
+}
+
+.footer-dis {
+    color: #7c878e;
+    font-family: Sans-Serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+.footer-heading {
+    color: #ffffff;
+    font-family: serif;
+    font-weight: bold;
+    font-size: 26px;
+}
+
+.footer-para {
+    color: #7c878e;
+    font-family: Sans-Serif;
+    font-size: 20px;
+}
+
+.link-footer {
+    color: #567f35;
+    font-family: Sans-Serif;
+    font-size: 20px;
+}
+
+.footer-image {
+    width: 100px;
+}
